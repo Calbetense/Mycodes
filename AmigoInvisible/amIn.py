@@ -1,6 +1,10 @@
 # Enviar correo Gmail con Python
 # www.pythondiario.com
- 
+
+
+#Para que GMAIL admita esta fuente como válida activar esta opción: https://myaccount.google.com/lesssecureapps
+
+
 import random, smtplib, socket, sys, getpass
  
 Ali_Luis = 0
@@ -59,7 +63,7 @@ Feliz Navidad! Este es un mensaje automatico, pero no quita la alegria que me da
 
 El juego esta estructurado por parejas: Alicia y Luis, Irene y Andrej, Javier y Chusa y los maravillosos Daniel y Guille!!!
 Se mandara un solo mail por pareja, las reglas son las siguientes:
-    Precio Maximo:  --Acordar--
+    Precio Maximo:  50 Chavos por pareja
     Precio Minimo:  0 Lereles
     Dia de entrega: En Reyes, pos claro
 Y sin mas preambulos, tu objetivo a regalar es....
@@ -108,7 +112,7 @@ Feliz Navidad! Este es un mensaje automatico, pero no quita la alegria que me da
 
 El juego esta estructurado por parejas: Alicia y Luis, Irene y Andrej, Javier y Chusa y los maravillosos Daniel y Guille!!!
 Se mandara un solo mail por pareja, las reglas son las siguientes:
-    Precio Maximo:  --Acordar--
+    Precio Maximo:  50 Chavos por pareja
     Precio Minimo:  0 Lereles
     Dia de entrega: En Reyes, pos claro
 Y sin mas preambulos, tu objetivo a regalar es....
@@ -157,7 +161,7 @@ Feliz Navidad! Este es un mensaje automatico, pero no quita la alegria que me da
 
 El juego esta estructurado por parejas: Alicia y Luis, Irene y Andrej, Javier y Chusa y los maravillosos Daniel y Guille!!!
 Se mandara un solo mail por pareja, las reglas son las siguientes:
-    Precio Maximo:  --Acordar--
+    Precio Maximo:  50 Chavos por pareja
     Precio Minimo:  0 Lereles
     Dia de entrega: En Reyes, pos claro
 Y sin mas preambulos, tu objetivo a regalar es....
@@ -206,7 +210,7 @@ Feliz Navidad! Este es un mensaje automatico, pero no quita la alegria que me da
 
 El juego esta estructurado por parejas: Alicia y Luis, Irene y Andrej, Javier y Chusa y los maravillosos Daniel y Guille!!!
 Se mandara un solo mail por pareja, las reglas son las siguientes:
-    Precio Maximo:  --Acordar--
+    Precio Maximo:  50 Chavos por pareja
     Precio Minimo:  0 Lereles
     Dia de entrega: En Reyes, pos claro
 Y sin mas preambulos, tu objetivo a regalar es....
